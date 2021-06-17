@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Du lịch ảo Đại học Hùng Vương\n"
+"Language: en\n"
+
+#: id=panorama_D97E255A_03EB_5F5C_418B_3DD1E733C818.label
+msgid "Physics and Maths Practice Lab"
+msgstr "Physics and Maths Practice Lab"
+
+#: id=panorama_CF941D9D_FC14_99F2_41C0_9CE2ED650D4A.label
+msgid "Dormitory Yard"
+msgstr "Dormitory Yard"
+
+#: id=panorama_70AEE288_0437_8BD2_415F_6B5B97ADFD28.label
+#: id=panorama_A450FEF9_031B_4D5C_4141_1129DCCFC75D.label
+#: id=panorama_D9CF7661_FC75_8B53_41E1_AD41D10CC743.label
+msgid "Operator lobby"
+msgstr "Operator lobby"
+
+#: id=panorama_A809D893_0324_B5D3_4179_7A9FCD8783FA.label
+msgid "Electric - Electronics - Microcontrollers Practice Lab"
+msgstr "Electric - Electronics - Microcontrollers Practice Lab"
+
+#: id=Button_062AF830_1140_E215_418D_D2FC11B12C47.label
+#: id=Button_0722A097_14F3_BE7A_41AC_343ED9394FBA.label
+msgid "Admission Information"
+msgstr "Admission Information"
+
+#: id=Button_058AC481_141D_1285_4184_379772816EAA.label
+msgid "Lecture Hall"
+msgstr "Lecture Hall"
+
+#: id=panorama_D1EBEA93_FDF4_9BF6_41EA_B5F9CA29CEE1.label
+msgid "Lecture Hall E"
+msgstr "Lecture Hall E"
+
+#: id=panorama_90E3BFEA_04FF_9951_4173_FBA8AA0C404E.label
+msgid "Department of Teaching Management Staff"
+msgstr "Department of Teaching Management Staff"
+
+#: id=panorama_AD2D18E7_031C_B573_4189_204D84231D50.label
+msgid "Electrical equipment - Electric machine Lab"
+msgstr "Electrical equipment - Electric machine Lab"
+
+#: id=tour.description
+msgid ""
+"null"
+msgstr ""
+
+#: id=panorama_4B453AD2_0E7E_26BF_4168_4FF4E596912A.label
+msgid "Lecture Hall D"
+msgstr "Lecture Hall D"
+
+#: id=panorama_672C8570_040C_8932_413A_2CDD93C7DD80.label
+msgid "Medical Room"
+msgstr "Medical Room"
+
+#: id=Button_02CDA386_1434_F68F_41A7_7CFB2C9D64A8.label
+#: id=Button_03926BB6_143F_768F_41A4_F139627C541E.label
+#: id=Button_03935BB6_143F_768F_41A8_DECFCB70196F.label
+#: id=Button_06BF607C_1415_1182_41B2_A6D2813F589E.label
+#: id=Button_0C0F93F6_143F_768F_41AA_EF140608350C.label
+#: id=Button_0CF2BF34_143F_2F82_4198_861A5FA7650C.label
+#: id=Button_159EFDDC_31FA_0014_41C6_9CF7032F84E0.label
+#: id=Button_168DE310_3106_01EC_4192_6A9F468A0ADE.label
+#: id=Button_17561D7D_31FA_0015_41B5_BD72FAC26B8B.label
+#: id=Button_17592215_31FA_0014_41B2_AA3B5CC318B8.label
+#: id=Button_17EB42B7_3106_0014_41B0_CE70CBDDF438.label
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+#: id=Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label
+msgid "Life - Culture Institutions"
+msgstr "Life - Culture Institutions"
+
+#: id=panorama_72C1692D_043D_86D2_4163_36D4BE0C9B16.label
+#: id=panorama_A513524E_0327_54B5_4182_173CDC7BAE9E.label
+#: id=panorama_A7971CBF_0325_4DD4_4191_03F5140A01BF.label
+msgid "Synary Smart Hub"
+msgstr "Synary Smart Hub"
+
+#: id=panorama_A8F7009A_0325_75DD_4190_0B2D40552ABF.label
+msgid "The way to the C lecture hall"
+msgstr "The way to the C lecture hall"
+
+#: id=panorama_133E3307_0801_EDEC_4151_C3562E9C7C88.label
+#: id=panorama_14CE9D25_0803_342C_4192_154FBBD16446.label
+msgid "Hung Vuong High quality school library"
+msgstr "Hung Vuong High quality school library"
+
+#: id=video_52B8CB95_0BC4_7603_418C_20E503254B8A.label
+msgid "HOITRUONG2"
+msgstr "HOITRUONG2"
+
+#: id=video_52579D9E_083C_D201_4184_0FA3E32C9B02.label
+msgid "dhhv2"
+msgstr "dhhv2"
+
+#: id=panorama_B37A5755_FC14_8973_41D9_CF9B8BBD2806.label
+msgid "Art rooms"
+msgstr "Art rooms"
+
+#: id=panorama_05E51092_032C_D5AD_4167_836C93FF9EBE.label
+msgid "Meeting rooms"
+msgstr "Meeting rooms"
+
+#: id=panorama_9CB606A5_04FF_8BD3_416C_385E14937132.label
+msgid "Training Cooperation Center"
+msgstr "Training Cooperation Center"
+
+#: id=panorama_D881466B_FC7B_8B55_41D5_F1212AEDF5A1.label
+msgid "In front of the lecture hall E"
+msgstr "In front of the lecture hall E"
+
+#: id=LinkBehaviour_0098938A_14F7_426A_41A1_D2991107A334.source
+msgid "https://ptlab.net"
+msgstr "https://ptlab.net"
+
+#: id=panorama_D2F1DB31_FDF4_7932_41E3_9FA851A60B83.label
+msgid "Lecture hall A"
+msgstr "Lecture hall A"
+
+#: id=Button_02C1F377_1434_F78E_41B0_A804A19E383A.label
+#: id=Button_02C20386_1434_F68F_419D_89A204A419C2.label
+#: id=Button_02C20386_1434_F68F_419D_89A204A419C2.pressedLabel
+#: id=Button_02C27386_1434_F68F_41A1_C73BE0077081.label
+#: id=Button_02CCD386_1434_F68F_41B1_C3FF06E7459F.label
+#: id=Button_02CCE386_1434_F68F_41AF_335D032DF338.label
+#: id=Button_02CD3386_1434_F68F_418E_9B600465C200.label
+#: id=Button_02CD5386_1434_F68F_41A8_5180211B2586.label
+#: id=Button_02CD8386_1434_F68F_41A5_6ADD17BF976F.label
+#: id=Button_02CDF386_1434_F68F_417F_4CE93A96DFB1.label
+#: id=Button_03903BB6_143F_768F_419A_44E942CE2380.label
+#: id=Button_03906BC6_143F_768E_41AE_4E1B32B6CC02.label
+#: id=Button_03907BC6_143F_768E_417A_3BD51DC35334.label
+#: id=Button_0390BBB6_143F_768F_4192_B8D6DC916EFF.label
+#: id=Button_0390DBC6_143F_768E_419A_B96980D42394.label
+#: id=Button_03920BB6_143F_768F_418E_AEB73AF79C65.label
+#: id=Button_03922BA7_143F_768E_419C_44E4079E76F3.label
+#: id=Button_03925BB6_143F_768F_41B3_41A562B20DE8.label
+#: id=Button_03928BA7_143F_768E_41B2_CF2AA70215DF.label
+#: id=Button_03928BA7_143F_768E_41B2_CF2AA70215DF.pressedLabel
+#: id=Button_0392CBA7_143F_768E_419B_15DF10D2503A.label
+#: id=Button_03931BB6_143F_768F_4196_5AEFE30B8111.label
+#: id=Button_03933BB6_143F_768F_41B2_B3005532517B.label
+#: id=Button_03933BB6_143F_768F_41B2_B3005532517B.pressedLabel
+#: id=Button_03936BB6_143F_768F_41A0_DD18135E1ED5.label
+#: id=Button_0393ABB6_143F_768F_419C_2A7173459586.label
+#: id=Button_0393BBB6_143F_768F_41AB_64FBE109CC30.label
+#: id=Button_0393DBB6_143F_768F_4199_05689E1BA350.label
+#: id=Button_039D5BA7_143F_768E_418D_96E9436AC604.label
+#: id=Button_039F8BA7_143F_768E_41AF_6BE8A2AAA5BF.label
+#: id=Button_0680C07C_1415_1182_4196_F539BCD349D5.label
+#: id=Button_0691B04D_1415_1182_41AA_8334C0DE0D33.label
+#: id=Button_06BE908B_1415_1285_41A6_1B261C08198D.label
+#: id=Button_06BF008B_1415_1285_419C_A52235A946E5.label
+#: id=Button_06BF508B_1415_1285_41AE_96C4D16B1A47.label
+#: id=Button_06BF708B_1415_1285_418D_057D207D867C.label
+#: id=Button_06BFC07C_1415_1182_418B_D82ADC6F0B70.label
+#: id=Button_06BFD07C_1415_1182_41AC_698F06F07341.label
+#: id=Button_06BFF07C_1415_1182_41A9_6CF8CAA3833D.label
+#: id=Button_06BFF07C_1415_1182_41A9_6CF8CAA3833D.pressedLabel
+#: id=Button_0C0943F6_143F_768F_41B2_9255DADBB632.label
+#: id=Button_0C0B63E7_143F_768E_417B_75793464B7ED.label
+#: id=Button_0C0E73F6_143F_768F_4171_83C42C9E9793.label
+#: id=Button_0C0EC3F6_143F_768F_4197_134030C50BCC.label
+#: id=Button_0C0EC3F6_143F_768F_4197_134030C50BCC.pressedLabel
+#: id=Button_0C0F23F6_143F_768F_41B0_95F8C02DF44D.label
+#: id=Button_0C0F33F6_143F_768F_41AC_364C38CD1904.label
+#: id=Button_0C0F53F6_143F_768F_4180_D04DCAAE7942.label
+#: id=Button_0C0F73F6_143F_768F_41B1_58462F60461D.label
+#: id=Button_0C0F93F6_143F_768F_41B0_1A476FE309A0.label
+#: id=Button_0CF20F34_143F_2F82_4178_2D0716BE3416.label
+#: id=Button_0CF22F34_143F_2F82_419A_2673A936D416.label
+#: id=Button_0CF26F34_143F_2F82_41B1_1F7ACAA0BB01.label
+#: id=Button_0CF27F34_143F_2F82_41B2_3F3BDAE820E7.label
+#: id=Button_0CF2CF34_143F_2F82_412A_EFFC89520D90.label
+#: id=Button_0CF94F24_143F_2F83_419E_6C0323F9D2BE.label
+#: id=Button_0CFC6F34_143F_2F82_4198_4C1E511C353A.label
+#: id=Button_0CFD7F34_143F_2F82_41A5_084A0E671F2F.label
+#: id=Button_0CFDCF34_143F_2F82_41B3_E703CB276C84.label
+#: id=Button_0CFDCF34_143F_2F82_41B3_E703CB276C84.pressedLabel
+#: id=Button_13D4FC1E_310A_0017_41BA_DDA6D071C1BA.label
+#: id=Button_159E8DDD_31FA_0014_41C5_F18F441AF371.label
+#: id=Button_159E9DDC_31FA_0015_41B6_CB1D433C7673.label
+#: id=Button_159EBDDD_31FA_0014_41C8_935504B30727.label
+#: id=Button_159ECDDC_31FA_0014_41B9_2D5AB1021813.label
+#: id=Button_159EDDDC_31FA_0014_419A_61C18E43FE01.label
+#: id=Button_159EEDDC_31FA_0014_41B6_22A86B2D2FEB.label
+#: id=Button_15A10DDC_31FA_0014_4185_021C898E177D.label
+#: id=Button_15A12DDC_31FA_0014_416B_ED845741AE5F.label
+#: id=Button_15A12DDC_31FA_0014_416B_ED845741AE5F.pressedLabel
+#: id=Button_15A13DDC_31FA_0014_41C5_41AE80876834.label
+#: id=Button_168D0310_3106_01EC_41A1_FA8FC42E6FF3.label
+#: id=Button_168D2310_3106_01EC_41B8_9D7D1B2B55FA.label
+#: id=Button_168D3310_3106_01EC_41AC_5D524E4677A5.label
+#: id=Button_168D3310_3106_01EC_41AC_5D524E4677A5.pressedLabel
+#: id=Button_168D5310_3106_01EC_41B5_96D9387401B8.label
+#: id=Button_168D6310_3106_01EC_41B8_A0B6BE627547.label
+#: id=Button_168D9311_3106_01EC_41A8_3BD8769525D6.label
+#: id=Button_168DA310_3106_01EC_41BE_DF88732C2A28.label
+#: id=Button_168DB310_3106_01EC_41B2_3511AA5E40E1.label
+#: id=Button_168DD310_3106_01EC_4190_7815FA70349E.label
+#: id=Button_17560D7D_31FA_0015_41C4_7F0EC7540CC2.label
+#: id=Button_17562D7D_31FA_0015_41A3_96B282B30DBA.label
+#: id=Button_17564D7D_31FA_0015_41B8_A9191CD56C52.label
+#: id=Button_17564D7D_31FA_0015_41B8_A9191CD56C52.pressedLabel
+#: id=Button_17565D7D_31FA_0015_4193_78BBCB2DC70F.label
+#: id=Button_17566D7D_31FA_0015_41AD_98D7C60C694F.label
+#: id=Button_17567D7D_31FA_0015_41C2_1E0D0AF05C7A.label
+#: id=Button_1756DD7D_31FA_0015_41A5_988B67FCF8B7.label
+#: id=Button_1756FD7D_31FA_0015_41C7_DA2AAC2AAAEC.label
+#: id=Button_1757AD7D_31FA_0015_41C7_FB79F56FA149.label
+#: id=Button_1758B215_31FA_0014_41BC_C4EAC2A9544B.label
+#: id=Button_17590215_31FA_0014_41C1_2B2D012DCC76.label
+#: id=Button_17593215_31FA_0014_41C0_42BAFB0080F0.label
+#: id=Button_17596215_31FA_0014_41C6_A42670770708.label
+#: id=Button_17597215_31FA_0014_41C0_9BEE1DE4D7F6.label
+#: id=Button_17598215_31FA_0014_41AC_1166AB319171.label
+#: id=Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label
+#: id=Button_1759D215_31FA_0014_41AD_B6C5744A0B97.label
+#: id=Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.label
+#: id=Button_1759F215_31FA_0014_41BD_BBFA5FB0D882.pressedLabel
+#: id=Button_17EAB2B7_3106_0014_41A7_209417AD3E9A.label
+#: id=Button_17EAD2B7_3106_0014_41C0_0B5453B4841D.label
+#: id=Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.label
+#: id=Button_17EAE2B7_3106_0014_41C7_DB7FC43AAEE0.pressedLabel
+#: id=Button_17EB02B7_3106_0014_41AF_05D9AC36B189.label
+#: id=Button_17EB32B7_3106_0014_41C8_467BF6AECBE8.label
+#: id=Button_17EB52B7_3106_0014_419C_439E593AEC43.label
+#: id=Button_17EB62B7_3106_0014_41C5_43B38271B353.label
+#: id=Button_17EB72B7_3106_0014_41B9_61857077BF4A.label
+#: id=Button_17EB92B7_3106_0014_41B2_34A3E3F63779.label
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#: id=panorama_1AABD8D7_0DCA_62A6_41A2_85FF28F760F8.label
+msgid "Anatomy - Physiology Practice Lab"
+msgstr "Anatomy - Physiology Practice Lab"
+
+#: id=panorama_E2742222_FC0B_8AD6_41D5_22B20C88D8EF.label
+msgid "Hung Vuong High quality school Garden"
+msgstr "Hung Vuong High quality school Garden"
+
+#: id=Button_02C64377_1434_F78E_41AF_57AEEF1807F6.label
+#: id=Button_0391ABB6_143F_768F_41B2_EE3F539383BB.label
+#: id=Button_039ECBA7_143F_768E_41A9_36810487DC65.label
+#: id=Button_0692B04D_1415_1182_417F_FBA66481B318.label
+#: id=Button_0C0B13E7_143F_768E_41A8_FFA5F1D010C3.label
+#: id=Button_0CF9DF24_143F_2F83_41A7_4AEB3D9BF127.label
+#: id=Button_15A15DDC_31FA_0014_41A4_CE4305FEC7D1.label
+#: id=Button_168CA310_3106_01EC_41C7_72CE0522951A.label
+#: id=Button_1757CD7D_31FA_0015_4143_A9E37B16A50B.label
+#: id=Button_175A5214_31FA_0014_4198_930DF49BADD9.label
+#: id=Button_17EA82B7_3106_0014_41C2_C9B0D9E6F22C.label
+#: id=Button_2A2DA53B_310E_001C_41C7_8885E712C50B.label
+msgid "Back"
+msgstr "Back"
+
+#: id=panorama_6DA982F9_040C_8B32_4140_771B74FEF68F.label
+msgid "Left aisle"
+msgstr "Left aisle"
+
+#: id=panorama_F5FA53B6_FAB0_A4B4_41EB_D411CDD8F55F.label
+msgid "The way to Hung Vuong High quality school"
+msgstr "The way to Hung Vuong High quality school"
+
+#: id=panorama_76AD041F_040B_8EEE_416D_C090B6E5B079.label
+msgid "Lecture hall canteen"
+msgstr "Lecture hall canteen"
+
+#: id=panorama_3BDAB4C2_0E5E_629F_41A8_98D4683786FC.label
+msgid "4th floor corridor"
+msgstr "4th floor corridor"
+
+#: id=panorama_EAC520B1_FA90_634D_41B1_8B435B34C944.label
+#: id=panorama_EAC8FC02_FC14_BED6_41DD_A2A7B104805F.label
+msgid "House of Culture - Tourism"
+msgstr "House of Culture - Tourism"
+
+#: id=panorama_CF9DD3CE_FC1C_896E_41E1_2C4596DEA1E2.label
+msgid "Entrance to the Dormitory"
+msgstr "Entrance to the Dormitory"
+
+#: id=panorama_C681D5B7_FCFC_893E_41B3_95D5F4B7E810.label
+msgid "Guest house"
+msgstr "Guest house"
+
+#: id=Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label
+msgid "Institutions of Training - Scientific Research"
+msgstr "Institutions of Training - Scientific Research"
+
+#: id=LinkBehaviour_07FD9EE7_1491_43D9_41A8_2CC36F45528E.source
+msgid "http://360.hvu.edu.vn/eng"
+msgstr "http://360.hvu.edu.vn/eng"
+
+#: id=Button_2A2DE53B_310E_001C_41BB_C7AB6950A4DD.label
+msgid "Lobby"
+msgstr "Lobby"
+
+#: id=panorama_3D40B136_0E4A_23E7_4179_50989A8388B4.label
+#: id=panorama_3D7A1868_0E4E_626B_4179_D93DF18E6B88.label
+#: id=panorama_3E0CBE33_0E4E_21FD_419D_C7E11B842B1F.label
+msgid "Administrative Region"
+msgstr "Administrative Region"
+
+#: id=Button_8AF0CE68_CA47_9BF9_41C1_39A3728F5780.label
+msgid "& ProTechLap"
+msgstr "& ProTechLap"
+
+#: id=panorama_BB000A96_0327_55D4_4184_B2A390B3B4A2.label
+#: id=panorama_F28066AD_0364_BDF7_4184_4E198AAB69FC.label
+msgid "Central Hall"
+msgstr "Central Hall"
+
+#: id=panorama_B4658F95_FC15_F9FD_41E8_5FC6E1E1650B.label
+msgid "Music rooms"
+msgstr "Music rooms"
+
+#: id=panorama_42490A41_0844_B603_417D_182D0CA12CB6.label
+#: id=panorama_45EF0C95_084C_5203_4197_5033A6DFE90D.label
+msgid "Multimedia Practice Lab"
+msgstr "Multimedia Practice Lab"
+
+#: id=panorama_B2DAABAB_FC1C_F9D6_41D3_FAAEB6446A10.label
+msgid "Classroom Hung Vuong High quality school"
+msgstr "Classroom Hung Vuong High quality school"
+
+#: id=panorama_AD0518CB_031B_55B3_4193_772B00AA5BDF.label
+msgid "Inverter-PLC practice room"
+msgstr "Inverter-PLC practice room"
+
+#: id=Button_1203FDB8_3106_001C_41B6_C9BE8EDD0DA9.label
+msgid "Garden"
+msgstr "Garden"
+
+#: id=panorama_B1B750F3_036C_D56C_417A_1E06D25E0BA8.label
+msgid "CanTeen of the Dormitory"
+msgstr "CanTeen of the Dormitory"
+
+#: id=HTMLText_1B83B830_0EB2_933E_41A9_986AEC2BB50E.html
+msgid ""
+"<P TEXTSHADOW="1px 1px 3px rgba(0,0,0,0.6)"   ALIGN="center"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Verdana" SIZE="30px" COLOR="#0000cc"><B>{{title}}</B></FONT></FONT></P><P TEXTSHADOW="1px 1px 3px rgba(0,0,0,0.6)"   ALIGN="center"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Verdana" SIZE="20px" COLOR="#0000cc"><B>{{subtitle}}</B></FONT></FONT></P>"
+msgstr ""
+"<P TEXTSHADOW=\"1px 1px 3px rgba(0,0,0,0.6)\"   ALIGN=\"center\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Verdana\" SIZE=\"30px\" COLOR=\"#0000cc\"><B>{{title}}</B></FONT></FONT></P><P TEXTSHADOW=\"1px 1px 3px rgba(0,0,0,0.6)\"   ALIGN=\"center\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Verdana\" SIZE=\"20px\" COLOR=\"#0000cc\"><B>{{subtitle}}</B></FONT></FONT></P>"
+
+#: id=panorama_98E9F1C4_031D_F7B5_417B_AA2EF9CC74B2.label
+msgid "Sảnh trưng bày sản phẩm"
+msgstr "Sảnh trưng bày sản phẩm"
+
+#: id=Button_15F5A318_3106_001C_41C5_9AA2EF2184CF.label
+msgid "Terrace"
+msgstr "Terrace"
+
+#: id=panorama_EADC6D90_FAB0_5D4B_41C1_57E2DC4D25F5.label
+msgid "In front of the executive lobby"
+msgstr "In front of the executive lobby"
+
+#: id=LinkBehaviour_007818B8_14F1_4FB7_41B1_110E147D1B67.source
+msgid "http://360.hvu.edu.vn/lao"
+msgstr "http://360.hvu.edu.vn/lao"
+
+#: id=panorama_931DEB42_040D_9956_4157_10C802364756.label
+#: id=panorama_9395D9E8_040C_9952_410B_3AEFC626CF00.label
+#: id=panorama_BD8E7CF1_FC1F_9F33_41EA_1A92C61B9370.label
+#: id=panorama_BE246D06_FC1C_7ED1_41EC_A28507152B81.label
+#: id=panorama_E9C1E65F_FC14_8B6F_41EA_966E8ED45D12.label
+msgid "Product display area Training - Science and technology"
+msgstr "Product display area Training - Science and technology"
+
+#: id=HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html
+msgid ""
+"<P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Bebas Neue Bold" SIZE="8.459999999999999vh" COLOR="#04a3e1">___</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald"><B><I>LOREM IPSUM</I></B></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald"><B><I>DOLOR SIT AMET</I></B></FONT></FONT></P>"
+msgstr ""
+"<P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Bebas Neue Bold\" SIZE=\"8.459999999999999vh\" COLOR=\"#04a3e1\">___</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\"><B><I>LOREM IPSUM</I></B></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\"><B><I>DOLOR SIT AMET</I></B></FONT></FONT></P>"
+
+#: id=video_5340A027_083D_D20F_4153_9220DAD9E226.label
+msgid "THUVIEN1"
+msgstr "THUVIEN1"
+
+#: id=panorama_ACB8BFD2_036C_CBAD_418E_3C814140732B.label
+msgid "After the lecture hall B"
+msgstr "After the lecture hall B"
+
+#: id=Button_0C8737AE_143D_1E9F_41AF_CF237B3C7E33.label
+msgid "Headquarter"
+msgstr "Headquarter"
+
+#: id=panorama_B6CBA952_037C_F4AD_4174_6F3962F5752F.label
+msgid "Dormitory Lobby"
+msgstr "Dormitory Lobby"
+
+#: id=panorama_EAAE415D_FAB3_E5F5_41CB_F90603970174.label
+msgid "Bronze drum area"
+msgstr "Bronze drum area"
+
+#: id=panorama_F516639F_FAB3_A574_41EB_D5AE146E18A3.label
+msgid "Before the operator"
+msgstr "Before the operator"
+
+#: id=panorama_F521FDF1_FA90_BCCC_41B1_6138B95560D7.label
+msgid "Dormitory Gate"
+msgstr "Dormitory Gate"
+
+#: id=panorama_58D0396C_0BDD_D201_4171_098B3B68CB18.label
+msgid "Reception Room"
+msgstr "Reception Room"
+
+#: id=Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text
+msgid "DOLOR SIT AMET, CONSECTETUR"
+msgstr "DOLOR SIT AMET, CONSECTETUR"
+
+#: id=Button_2A2D853B_310E_001C_41C4_1C2E2BAFC35D.label
+msgid "Main Entrance"
+msgstr "Main Entrance"
+
+#: id=HTMLText_062AD830_1140_E215_41B0_321699661E7F.html
+msgid ""
+"<P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.49vh" COLOR="#04a3e1"><B>A public, multidisciplinary university in the ancestral homeland</B></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh" COLOR="#04a3e1"></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">Hung Vuong University was established on April 29, 2003 under Decision No. 81/2003/QD-TTg of the Prime Minister, on the basis of Phu Tho Pedagogical College - with a tradition of nearly 60 years. </FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh"><B>Human resources:</B></FONT><FONT SIZE="2.1599999999999984vh"> </FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">         By November 2020, the University has had 416 officials and employees, including: Prof., Assoc. Prof. : 14, PhD. : 65, Master: 258, Engineer, Bachelor: 62, other qualifications: 17.</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      </FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh"><B>Organization:</B></FONT><FONT SIZE="2.1599999999999984vh"> </FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">         Currently, the University has a training base in Viet Tri city with:</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">     	- 9 faculties (Engineering and Technology; Natural Sciences; Social Sciences and Tourism; Foreign Languages; Primary and Early Childhood Education; Agriculture - Forestry - Fishery; Economics &amp; Business Administration; Arts and Sports; Politics and Educational Psychology);</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      - 06 departments (Office; Political and Student Affairs; Training; Financial and Planning; International Cooperation; Science &amp; Technology);</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      - 06 centers (Cooperation and Training, Communication and Student Support; Training center for Teachers and Education Administrators; Foreign Languages and Informatics; Information - Materials - Libraries; National Defense and Security Education; Quality Assurance);</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      - 01 Institute (Applied Research and Development);</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">          - 01 station (Medical).</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh"></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh"><B>Profession and training level:</B></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">       The university offers 44 graduate and undergraduate majors. Specifically:</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      - Postgraduate training: 08 majors;</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">      - University training: 36 majors;</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh"><B>Training scale:</B></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">       In the 2020-2021 school year, the total number of students in all training systems is nearly 9,000 students, specifically: </FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">           - Postgraduates: 374 students;</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">           - Undergraduates: 4,863 students;</FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="1vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT SIZE="2.1599999999999984vh">           - Others: 3,729 students.</FONT></FONT></P>"
+msgstr ""
+"<P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.49vh\" COLOR=\"#04a3e1\"><B>A public, multidisciplinary university in the ancestral homeland</B></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\" COLOR=\"#04a3e1\"></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">Hung Vuong University was established on April 29, 2003 under Decision No. 81/2003/QD-TTg of the Prime Minister, on the basis of Phu Tho Pedagogical College - with a tradition of nearly 60 years. </FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\"><B>Human resources:</B></FONT><FONT SIZE=\"2.1599999999999984vh\"> </FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">         By November 2020, the University has had 416 officials and employees, including: Prof., Assoc. Prof. : 14, PhD. : 65, Master: 258, Engineer, Bachelor: 62, other qualifications: 17.</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      </FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\"><B>Organization:</B></FONT><FONT SIZE=\"2.1599999999999984vh\"> </FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">         Currently, the University has a training base in Viet Tri city with:</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">     	- 9 faculties (Engineering and Technology; Natural Sciences; Social Sciences and Tourism; Foreign Languages; Primary and Early Childhood Education; Agriculture - Forestry - Fishery; Economics &amp; Business Administration; Arts and Sports; Politics and Educational Psychology);</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      - 06 departments (Office; Political and Student Affairs; Training; Financial and Planning; International Cooperation; Science &amp; Technology);</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      - 06 centers (Cooperation and Training, Communication and Student Support; Training center for Teachers and Education Administrators; Foreign Languages and Informatics; Information - Materials - Libraries; National Defense and Security Education; Quality Assurance);</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      - 01 Institute (Applied Research and Development);</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">          - 01 station (Medical).</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\"></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\"><B>Profession and training level:</B></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">       The university offers 44 graduate and undergraduate majors. Specifically:</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      - Postgraduate training: 08 majors;</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">      - University training: 36 majors;</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\"><B>Training scale:</B></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">       In the 2020-2021 school year, the total number of students in all training systems is nearly 9,000 students, specifically: </FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">           - Postgraduates: 374 students;</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">           - Undergraduates: 4,863 students;</FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"1vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT SIZE=\"2.1599999999999984vh\">           - Others: 3,729 students.</FONT></FONT></P>"
+
+#: id=panorama_45C210D1_0BDC_D203_41A3_33ED0F30C2F7.label
+msgid "Guest rooms"
+msgstr "Guest rooms"
+
+#: id=panorama_E9FDF500_FC15_8ED2_41D8_D8951F3F2DE6.label
+msgid "Palm garden"
+msgstr "Palm garden"
+
+#: id=panorama_770A8F7E_05F5_992E_4152_E669477CA564.label
+msgid "After lecture hall A"
+msgstr "After lecture hall A"
+
+#: id=Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label
+msgid "About Hung Vuong University"
+msgstr "About Hung Vuong University"
+
+#: id=panorama_152A3F6E_0DF7_DE67_41A8_C9296A897C4A.label
+msgid "Laboratory of Experimental Biology"
+msgstr "Laboratory of Experimental Biology"
+
+#: id=panorama_7D13365A_05F4_8B71_4157_168A80E29045.label
+msgid "Lecture Hall B"
+msgstr "Lecture Hall B"
+
+#: id=HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html
+msgid ""
+"<P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald" COLOR="#04a3e1"><B><I>JOHN DOE</I></B></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald"><I>Licensed Real Estate Salesperson</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald" COLOR="#999999"><I></I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald" COLOR="#999999"><I>Tlf.: +11 111 111 111</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald" COLOR="#999999"><I>jhondoe@realestate.com</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"><FONT FACE="Oswald" COLOR="#999999"><I>www.loremipsum.com</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1"></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="4.98vh" COLOR="#000000" LETTERSPACING="0vh" KERNING="1">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</FONT></P>"
+msgstr ""
+"<P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\" COLOR=\"#04a3e1\"><B><I>JOHN DOE</I></B></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\"><I>Licensed Real Estate Salesperson</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\" COLOR=\"#999999\"><I></I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\" COLOR=\"#999999\"><I>Tlf.: +11 111 111 111</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\" COLOR=\"#999999\"><I>jhondoe@realestate.com</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"><FONT FACE=\"Oswald\" COLOR=\"#999999\"><I>www.loremipsum.com</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\"></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"4.98vh\" COLOR=\"#000000\" LETTERSPACING=\"0vh\" KERNING=\"1\">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</FONT></P>"
+
+#: id=Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text
+msgid "LOREM IPSUM"
+msgstr "LOREM IPSUM"
+
+#: id=panorama_DB9F267D_03FB_7D57_418A_625EF47BEB5B.label
+msgid "Pharmacology-Physiology Practice Lab"
+msgstr "Pharmacology-Physiology Practice Lab"
+
+#: id=Button_2A2C753B_310E_001C_41C4_B649CCC20E3D.label
+msgid "Meeting Area 2"
+msgstr "Meeting Area 2"
+
+#: id=LinkBehaviour_0086EFA5_14F1_C25E_41AB_E4C4116EB1DB.source
+msgid "https://ktcn.hvu.edu.vn"
+msgstr "https://ktcn.hvu.edu.vn"
+
+#: id=Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label
+msgid "Administrative Institutions"
+msgstr "Administrative Institutions"
+
+#: id=video_53D583F1_0BC4_F603_4184_0C7D47E715C2.label
+msgid "dhhv1"
+msgstr "dhhv1"
+
+#: id=panorama_6EEDFCEC_040B_9F52_4145_105F27DACED8.label
+msgid "Right aisle"
+msgstr "Right aisle"
+
+#: id=panorama_5B3062E5_0BC4_F603_41A1_D79A49CAEE43.label
+#: id=panorama_5BBB32DA_0BC5_B601_419D_A13A6260047D.label
+#: id=panorama_AB1A6A52_033B_B4AC_4163_077B69C4413E.label
+msgid "Classrooms"
+msgstr "Classrooms"
+
+#: id=Button_05B22DEA_1417_3287_41A8_1629BF5A9C1C.label
+#: id=panorama_405391C5_087C_B203_419E_5E5C4A921289.label
+#: id=panorama_4136620E_084C_561E_4179_FC26A8422F2A.label
+#: id=panorama_4476CC83_0844_5207_4185_2F51BD04E8BC.label
+#: id=panorama_4EB8E948_084B_F201_41A1_51F6A914DB6C.label
+#: id=panorama_D7A78EBA_032B_CDDD_4195_C960CF81AF11.label
+msgid "Library"
+msgstr "Library"
+
+#: id=panorama_E2DD4DD8_FC35_9972_41B3_89033E380DB6.label
+msgid "Hung Vuong High quality school Gate"
+msgstr "Hung Vuong High quality school Gate"
+
+#: id=Button_04EE5400_1415_7182_41AA_21C143EAAA10.label
+msgid "Laboratory - Experiment"
+msgstr "Laboratory - Experiment"
+
+#: id=panorama_F5128718_FAB0_AD7C_41B8_D5750F30A383.label
+msgid "Football pitches"
+msgstr "Football pitches"
+
+#: id=panorama_9580ED03_04F4_7ED6_4170_197F5E0DA1EC.label
+#: id=panorama_9A4BB3AA_04F4_89D6_4116_AE23CCEAB880.label
+msgid "Language and Informatics Center"
+msgstr "Language and Informatics Center"
+
+#: id=panorama_BF98B08F_0324_B5B3_416E_218925679A11.label
+msgid "Leader of Hung Vuong University"
+msgstr "Leader of Hung Vuong University"
+
+#: id=HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html
+msgid ""
+"<P ALIGN="left"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Oswald Regular" SIZE="14px" COLOR="#ffffff"><I>Company Name</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Oswald Regular" SIZE="14px" COLOR="#ffffff"><I>www.loremipsum.com</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Oswald Regular" SIZE="14px" COLOR="#ffffff"><I>info@loremipsum.com</I></FONT></FONT></P><P ALIGN="left"><FONT FACE="Arial" SIZE="12px" COLOR="#000000" LETTERSPACING="0px" KERNING="1"><FONT FACE="Oswald Regular" SIZE="14px" COLOR="#ffffff"><I>Tlf.: +11 111 111 111</I></FONT></FONT></P>"
+msgstr ""
+"<P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Oswald Regular\" SIZE=\"14px\" COLOR=\"#ffffff\"><I>Company Name</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Oswald Regular\" SIZE=\"14px\" COLOR=\"#ffffff\"><I>www.loremipsum.com</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Oswald Regular\" SIZE=\"14px\" COLOR=\"#ffffff\"><I>info@loremipsum.com</I></FONT></FONT></P><P ALIGN=\"left\"><FONT FACE=\"Arial\" SIZE=\"12px\" COLOR=\"#000000\" LETTERSPACING=\"0px\" KERNING=\"1\"><FONT FACE=\"Oswald Regular\" SIZE=\"14px\" COLOR=\"#ffffff\"><I>Tlf.: +11 111 111 111</I></FONT></FONT></P>"
+
+#: id=panorama_F412CD18_FAB1_DD7B_41D1_C63A7811951C.label
+msgid "In the main gate"
+msgstr "In the main gate"
+
+#: id=Button_0C4DB562_143F_3386_4185_697EBEF97D12.label
+msgid "Serving Learners"
+msgstr "Serving Learners"
+
+#: id=panorama_C4F1CD76_FCFC_993E_41EB_5085E12C996C.label
+msgid "Research Institute"
+msgstr "Research Institute"
+
+#: id=LinkBehaviour_01AB6328_14F1_4257_41A1_C3B1CFE09DD6.source
+msgid "https://www.facebook.com/search/top?q=%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20h%C3%B9ng%20v%C6%B0%C6%A1ng%20-%20ph%C3%BA%20th%E1%BB%8D"
+msgstr "https://www.facebook.com/search/top?q=%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20h%C3%B9ng%20v%C6%B0%C6%A1ng%20-%20ph%C3%BA%20th%E1%BB%8D"
+
+#: id=panorama_CC96B952_031B_F4AD_418E_67F5C5C61B44.label
+msgid "Bar/ Kitchen professional training room"
+msgstr "Bar/ Kitchen professional training room"
+
+#: id=panorama_CB862A71_0324_B56F_418C_C534AEFC5D54.label
+msgid "After the lecture hall"
+msgstr "After the lecture hall"
+
+#: id=Button_00265A9F_14F7_426A_4196_89F6BA157291.label
+msgid "A product of Faculty of Engineering and Technology "
+msgstr "A product of Faculty of Engineering and Technology "
+
+#: id=panorama_F55AB68F_FAB0_6F54_41E6_B80B1917859D.label
+msgid "Lecture hall"
+msgstr "Lecture hall"
+
+#: id=panorama_12498724_0801_342C_4166_850ED4ACB8D7.label
+msgid "In front of the Hung Vuong High quality school library"
+msgstr "In front of the Hung Vuong High quality school library"
+
+#: id=panorama_E2276F71_032F_4B6F_4176_A14B0BFFB61E.label
+msgid "Dormitory canteen"
+msgstr "Dormitory canteen"
+
+#: id=Button_15EF2665_3106_0035_41AE_9BACA1A48D02.label
+msgid "Chill Out"
+msgstr "Chill Out"
+
+#: id=Button_0A054365_2D09_CB9F_4145_8C365B373D19.label
+#: id=panorama_F60BF389_FA90_A55C_41E6_0FDD3DADCD5F.label
+msgid "Campus"
+msgstr "Campus"
+
+#: id=panorama_BF0CD15A_0325_575D_4183_FBA20DFFEEBE.label
+msgid "Leaders of the College of Pedagogy"
+msgstr "Leaders of the College of Pedagogy"
+
+#: id=Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel
+msgid "Cultural life"
+msgstr "Cultural life"
+
+#: id=panorama_142E5377_0DDA_6666_4190_DA1F16305988.label
+msgid "Financial Planning Department - Student reception department"
+msgstr "Financial Planning Department - Student reception department"
+
+#: id=panorama_CCB48671_FC14_8B32_41B2_82301750F7DE.label
+msgid "The way to the house Culture - Tourism"
+msgstr "The way to the house Culture - Tourism"
+
+#: id=panorama_EA5D8DC2_FC14_7956_41B6_232BC7712C7C.label
+msgid "Main gate"
+msgstr "Main gate"
+
+#: id=Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label
+#: id=panorama_E1B4F704_FC0F_8AD2_41E6_A9F1A8B45557.label
+#: id=panorama_E35F79F4_FC0D_9932_41E6_057364E921E3.label
+msgid "Hung Vuong High quality school"
+msgstr "Hung Vuong High quality school"
+
+#: id=panorama_E143C315_03FC_F4D7_4193_042BF0E3B5A2.label
+msgid "Chemistry-Chemistry Practice Lab"
+msgstr "Chemistry-Chemistry Practice Lab"
+
+#: id=panorama_D32CACCF_03E7_4DB3_4192_4EB322220889.label
+msgid "Family planning Lab"
+msgstr "Family planning Lab"
+
+#: id=panorama_43E6D118_085C_7201_4196_ED2ADBE2FA52.label
+msgid "Student reception department"
+msgstr "Student reception department"
+
+#: id=panorama_7DF43697_0414_8BFE_416D_5224C2432D52.label
+msgid "Dormitory"
+msgstr "Dormitory"
+
+#: id=video_53BF1B28_0BCD_F601_4199_E0FAC8EB5662.label
+msgid "TRUONGQUAY1"
+msgstr "TRUONGQUAY1"
+
+#: id=Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.label
+#: id=Button_2A2C253B_310E_001C_41B6_D3A7F4F68C3E.pressedLabel
+msgid "Reception"
+msgstr "Reception"
+
+#: id=panorama_35DFC5F1_0E56_627D_4189_AB4C3120A499.label
+msgid "Conference room"
+msgstr "Conference room"
+
+#: id=panorama_CB1A9FFF_031B_4B54_4169_37A58555E34B.label
+msgid "Hotel professional training room"
+msgstr "Hotel professional training room"
+
+#: id=video_527BFC4D_083D_D203_4133_465BDDFB6770.label
+msgid "LIENCAP1"
+msgstr "LIENCAP1"
+
+#: id=Button_2A2C053B_310E_001C_41A2_583DE489828C.label
+msgid "Meeting Area 1"
+msgstr "Meeting Area 1"
+
+#: id=panorama_F57DF682_FAB0_EF4F_41EE_EEE46FE79C91.label
+msgid "Lecture hall E"
+msgstr "Lecture hall E"
+
+#: id=panorama_40CE398C_085C_D201_417E_CA5AF1E3F174.label
+msgid "Trainning department"
+msgstr "Trainning department"
+
+#: id=tour.name
+msgid "Virtual tourism at Hung Vuong University"
+msgstr "Virtual tourism at Hung Vuong University"
+
+#: id=panorama_E419FBA1_FC14_79D2_41EE_045A942C28F9.label
+msgid "Flycam - Main Gate"
+msgstr "Flycam - Main Gate"
+
+#: id=video_537B80D1_0BC4_5203_4193_8999E37B78BD.label
+#: id=video_53A5C17E_0BC4_5201_418E_9B13EE1DC9CB.label
+msgid "HOITRUONG1"
+msgstr "HOITRUONG1"
+
+#: id=map_1E09A0C2_0D93_8186_41A7_BAA0422DC139.label
+msgid "Planes"
+msgstr "Planes"
+
+#: id=panorama_EDDABCCC_03EC_CDB5_418E_E000A3FEBE90.label
+msgid "General Physics Practice Lab"
+msgstr "General Physics Practice Lab"
+
+#: id=panorama_DC2871A8_03EC_D7FC_4189_4931ACBC564A.label
+msgid "Thermomechanical Practice Lab"
+msgstr "Thermomechanical Practice Lab"
+
+#: id=panorama_B1B176B6_FC1D_8B3E_41D3_8103236B8361.label
+msgid "Computer room"
+msgstr "Computer room"
+
+#: id=Label_EC842B9C_CA44_995A_41DA_D72409F614DC.text
+msgid "Hung Vuong university "
+msgstr "Hung Vuong university "
+
+#: id=panorama_531C9353_0BDC_5607_4190_278BD9D761F9.label
+#: id=panorama_5EBCFF4C_0BDC_EE01_41A2_55C207D301EC.label
+msgid "Meeting room"
+msgstr "Meeting room"
+
+#: id=panorama_DC8C4720_03E4_FCEC_4190_911B372DC76B.label
+msgid "Basic Nursing Practice Lab"
+msgstr "Basic Nursing Practice Lab"
+
+#: id=panorama_05E0B8F0_0325_D56D_418F_554BDF921450.label
+msgid "150- seat hall"
+msgstr "150- seat hall"
+
+#: id=panorama_9B7FD2A0_031D_55EC_417B_ABCDB25B0B94.label
+msgid "Product display hall"
+msgstr "Product display hall"
+
+#: id=video_5629AEEB_0BCD_AE07_41A3_2CAB74FD86C4.label
+msgid "DHHV3"
+msgstr "DHHV3"
+
+#: id=panorama_AA2C5B0D_037B_B4B7_4182_3B1B8B934D8F.label
+msgid "Dormitory rooms"
+msgstr "Dormitory rooms"
+
+#: id=panorama_439BDAAF_085D_D61F_4197_8311AA58EE22.label
+msgid "Admissions consulting room"
+msgstr "Admissions consulting room"
+
+#: id=Button_2A2C553C_310E_0014_41C4_86393D0ADCC7.label
+msgid "Bar"
+msgstr "Bar"
